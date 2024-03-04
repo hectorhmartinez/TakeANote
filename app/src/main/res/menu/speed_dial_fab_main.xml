@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_text"
+        android:icon="@drawable/ic_text_24dp"
+        android:title="@string/add_text" />
+    <item
+        android:id="@+id/action_paint"
+        android:icon="@drawable/ic_paint_24dp"
+        android:title="@string/add_paint" />
+    <item
+        android:id="@+id/action_audio"
+        android:icon="@drawable/ic_audio_24dp"
+        android:title="@string/add_audio" />
+    <item
+        android:id="@+id/action_image"
+        android:icon="@drawable/ic_image_24dp"
+        android:title="@string/add_image" />
+    <item
+        android:id="@+id/action_map"
+        android:icon="@drawable/ic_map_24dp"
+        android:title="@string/add_map_note" />
+</menu>
